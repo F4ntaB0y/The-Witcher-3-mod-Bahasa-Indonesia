@@ -2,7 +2,7 @@
 
 Mod ini menambahkan lokalisasi Bahasa Indonesia untuk game *The Witcher 3: Wild Hunt*.
 
-**Pembuat:** Arya Pangestu (Aestu)
+**Pemmoder:** f4ntab0y
 
 ---
 
@@ -23,8 +23,3 @@ Anda dapat membeli dan mengunduh game resmi *The Witcher 3: Wild Hunt* melalui t
 
 ---
 
-## Unduh Mod Bahasa Indonesia
-
-Versi terbaru dan pengujian mod ini dapat diunduh melalui:
-- **Trakteer:** [Trakteer](https://trakteer.id/skripsimu.myid/)
-- **Ko-fi:** [Ko-fi](https://ko-fi.com/skripsimumyid)
